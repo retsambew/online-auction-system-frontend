@@ -30,11 +30,8 @@ Frontend (Web application):
 Database:
 - Mongodb
 
-Storage:
-- AWS S3 Bucket
-
 Hosting:
-- Heroku (server)
+- Render (server)
 - Netlify (client)
 
 ## Screenshots:
